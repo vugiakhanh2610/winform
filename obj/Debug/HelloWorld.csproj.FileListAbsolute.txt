@@ -1,0 +1,13 @@
+C:\Users\Admin\3D Objects\52100043\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Admin\3D Objects\52100043\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Admin\3D Objects\52100043\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Admin\3D Objects\52100043\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Admin\3D Objects\52100043\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\Admin\3D Objects\52100043\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\Admin\3D Objects\52100043\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\Admin\3D Objects\52100043\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Admin\3D Objects\52100043\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Admin\3D Objects\52100043\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Admin\3D Objects\52100043\HelloWorld\obj\Debug\HelloWorld.Form2.resources
+C:\Users\Admin\3D Objects\52100043\HelloWorld\obj\Debug\HelloWorld.Form3.resources
+C:\Users\Admin\3D Objects\52100043\HelloWorld\obj\Debug\HelloWorld.Form4.resources
